@@ -39,4 +39,4 @@ jobs:
           app-name: 'therethen'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C4E3F3B8DC0436CB327DDF892B780E4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9130C574F8184D12AF6F7BAA31B0A79A }}
